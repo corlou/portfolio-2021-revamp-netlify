@@ -12,14 +12,14 @@ layout: "education"
 <br>
 
 <p>
-  LitePages is an all in one back-end business platform. They take care of everything so the tradies and small businesses can do what they do best. I was the front-end engineer and therefore responsible for building & maintaining the front-end for a customer-facing HR & advertising platform, including porting the project to the Vue JS framework, and actively collaborating with the in-house UI/UX team for feature development.
+  LitePages is an all in one back-end business platform. They take care of everything (marketing, payroll, timesheets, job bookings and many other features) so that tradies and small businesses can do what they do best - the job at hand. I was the front-end engineer and therefore responsible for building & maintaining the interface, including porting the project to the Vue JS framework and actively collaborating with the in-house UI/UX team for future developments.
 </p>
 
 <br>
 
 <!-- IMAGES -->
 <p>
-    I helped build the portal where tradies and small business can sign up to the platform. At first, it wqas writting in Pug and we kept it alive for a while as there was paying customers on it. However, we came to the conclusion that we needed to migrate it over it to Nuxt due to security and better user experience.
+    I specifically built the front-end of the portal where tradies and small business can sign up to the platform. At first, it was developed in Pug and the team and I maintined it (as there were paying customers). While at the same time, we started to build a new, mobile responsive, and more secure platform in Vue/Nuxt to ehnace our user experience.
 </p>
 <div class="container">
     <div class="row"> <!-- First Row -->
@@ -37,7 +37,7 @@ layout: "education"
 <br>
 <br>
 <p>
-    We also decided to migrate our WordPress site over to Vue as well. Make everything in the same environment for ease of maintenance and better overall user experience. Plus, we wanted to build some custom features that WordPress was having difficulty in adding.
+    We also decided to migrate our WordPress site over to Vue as well. Make everything in the same environment for ease of maintenance and better overall user experience. Plus, we wanted to build some custom features that WordPress was having difficulty in implementing.
 </p>
 <div class="container">
     <div class="row"> <!-- Second Row -->
