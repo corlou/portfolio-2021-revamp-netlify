@@ -19,7 +19,7 @@ layout: "education"
 
 <!-- IMAGES -->
 <p>
-    I specifically built the front-end of the portal where tradies and small business can sign up to the platform. At first, it was developed in Pug and the team and I maintined it (as there were paying customers). While at the same time, we started to build a new, mobile responsive, and more secure platform in Vue/Nuxt to ehnace our user experience.
+    More specifically, I built the front-end of the portal where tradies and small business can sign up to the platform. At first, it was developed in Pug and the team and I maintined it (as there were paying customers). While at the same time, we started to build a new, mobile responsive, and more secure platform in Vue/Nuxt to enhance our user experience.
 </p>
 <div class="container">
     <div class="row"> <!-- First Row -->
