@@ -12,7 +12,7 @@ layout: "education"
 <br>
 
 <p>
-  Brief: A staff portal was developed by Danitt before I joined the team. It was a way for Ride It Right to manage their motorcycle fleet of voer 150 bikes at 6 different training centres along the East Coast. It was also a way for staff to communicate and check their roster. RIR was in the process of upgrading the system but they closed due to unforseen circumstances.
+  Brief: A staff portal was developed by Danitt before I joined the team. It was a way for Ride It Right to manage their motorcycle fleet of over 150 bikes at 6 different training centres along the East Coast. It was also a way for staff to communicate and check their roster. RIR was in the process of upgrading the system but they closed due to unforseen circumstances.
 </p>
 
 <p>
