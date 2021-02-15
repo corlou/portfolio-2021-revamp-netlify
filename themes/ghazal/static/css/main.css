@@ -336,8 +336,11 @@ li.page-item:last-child {
     color: var(--bg);
   }
 }
-.content {
-  margin-left: 7rem;
+.card {
+  border: none !important;
+}
+.card-body {
+  padding: 0.05rem !important;
 }
 .content img {
   max-width: 100%;

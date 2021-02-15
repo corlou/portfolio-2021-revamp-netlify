@@ -6,37 +6,48 @@ draft: false
 layout: "education"
 # Education
 ---
-  <div class="col xs="4" sm="3" md="3" lg="3" xl="12">
-      <p>Hi there! I'm Corina. I like travelling, pole fitness, coffee, cats, and reading. What I love most about coding is the delicate balance between being a rockstar and having no idea. It's certainly a challenge and one I thoroughly enjoy. Currently undertaking a Diploma of IT with Coder Academy while learning Polish in my spare time. I have also recently taken up knitting and plan on spinning my own yarn. Fun and interesting fact: When we were travelling, I found a cat in every country and petted it.</p>
-  </div>
-  <br>
-  <br>
-  <div class="row" style="text-align: center">
-    <div class="col">
-      <h4>Design</h4>
-      <p>Illustrator</p>
-      <p>Photoshop</p>
-      <p>Sketch</p>
-      <p>Bootstrap</p>
+<div class="container">
+   <p style="margin-left: 1em;">
+        Hi there! I'm Corina. I like travelling, pole fitness, coffee, cats, and reading. What I love most about coding is the delicate balance between being a rockstar and having no idea. It's certainly a challenge and one I thoroughly enjoy. Currently undertaking a Diploma of IT with Coder Academy while learning Polish in my spare time. I have also recently taken up knitting and plan on spinning my own yarn. Fun and interesting fact: When we were travelling, I found a cat in every country and petted it.
+    </p>
+    <br>
+    <div class="card-group" style="text-align: center;">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Design</h5>
+          <p class="card-text">
+            <p>Illustrator</p>
+            <p>Photoshop</p>
+            <p>Sketch</p>
+            <p>Bootstrap</p>
+          </p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Development</h5>
+          <p class="card-text">
+            <p>HTML/CSS/JS</p>
+            <p>Vue JS</p>
+            <p>Shopify</p>
+            <p>WordPress</p>
+          </p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Project Management</h5>
+          <p class="card-text">
+            <p>Jira</p>
+            <p>Trello</p>
+            <p>Slack</p>
+            <p>Confluence</p>
+          </p>
+        </div>
+      </div>
     </div>
-    <div class="col">
-      <h4>Development</h4>
-      <p>HTML/CSS/JS</p>
-      <p>Vue JS</p>
-      <p>Shopify</p>
-      <p>WordPress</p>
-    </div>
-    <div class="col">
-      <h4>Project Management</h4>
-      <p>Jira</p>
-      <p>Trello</p>
-      <p>Slack</p>
-      <p>Confluence</p>
-    </div>
-  </div>
-  <br>
-  <br>
-  <div class="row" style="text-align: center">
+    <br>
+    <div class="row" style="text-align: center">
     <div class="col"></div>
     <div class="col-10"> <!--Education and Qualifications column -->
       <h4>Qualifications & Education</h4>
@@ -68,6 +79,5 @@ layout: "education"
           </ul>
     </div> <!--/Education and Qualifications column -->
     <div class="col"></div>
-  </div>
-
-
+  </div> 
+</div>
