@@ -1,14 +1,12 @@
 <header
   style="
   width: 95vw;
-  
   position: fixed;
   top: 0;
   z-index: 10;
   transition: all 0.3s;
-  height: {{ if not .IsHome}}60px{{ else }}0{{ end }};
-  box-shadow: {{ if not .IsHome}} 0px 0px 2px 2px var(--bgBelow) {{ else }} none {{ end }};
-  background-color: {{ if not .IsHome}} var(--bgAbove) {{ else }} inherit {{ end }};
+  height: 60px;
+  box-shadow: 0px 0px 2px 2px var(--bgBelow);
   "
 >
   {{ partial "hamburgerCross.html" . }}{{ if not .IsHome}}
