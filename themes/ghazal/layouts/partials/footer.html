@@ -1,0 +1,53 @@
+<footer style="display: flex; flex-direction: column; margin: 2em 0 0 0;">
+  <div
+    style="
+      position: fixed;
+      bottom: 60px;
+      margin: auto;
+      width: 95vw;
+      
+    "
+  >
+    <i
+      class="to-top-button"
+      onclick="toTop()"
+      style="
+        display: none;
+        transform: rotate(-90deg);
+        background-color: var(--bgAbove);
+        border-radius: 50%;
+        border: solid 2px var(--primary);
+        padding: 10px;
+        position: absolute;
+        cursor: pointer;
+        right: 10px;
+        font-size: 1.25em;
+      "
+      >{{ partial "icons/chevron" . }}</i
+    >
+  </div>
+
+  {{ if eq .Kind "section" }}
+  <div>
+    {{ template "_internal/pagination.html" . }}
+  </div>
+  {{ end }}
+  <div
+    style="
+      font-size: 0.9em;
+      background-color: var(--bgAbove);
+      box-shadow: 0px 0px 2px 2px var(--bgBelow);
+      padding-bottom: 5px;
+      color: #717;
+    "
+  > 
+    <div style="text-align: center;">
+      <p style="margin: 0 0 5px 0;">{{ .Site.Params.footer }}</p>
+    </div>
+  </div>
+</footer>
+<script>
+  toTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+</script>

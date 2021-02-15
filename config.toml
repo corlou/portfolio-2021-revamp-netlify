@@ -1,0 +1,37 @@
+baseURL = "http://www.example.com/"
+languageCode = "en"
+theme = "ghazal"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+
+[params]
+    
+    author = "Corina Pelichowski"
+    description = "My website featuring travels, education, and professional experience."
+    footer = "Copyright 2021 Corina Pelichowski."
+    shortAbout = "Graphic Designer turned Software Engineer"
+    mainimage = "img/profile/headshot.png"
+    profileImage = "img/profile/headshot.png"
+
+    [params.theme]
+        fontSize = "16px"
+        dateFormat = "2006/01/02"
+        paginateNum = 5
+
+    [params.social]
+        github = "https://github.com/corlou"
+        linkedin = "https://www.linkedin.com/in/corina-pelichowski-794889142/"
+        email= "mailto:corina@danitt.com"
+    
+    [params.education]
+        title = ""
+        institution = ""
+        date = ""
