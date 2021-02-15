@@ -1,0 +1,3 @@
+[submodule "ghazal"]
+	path = ghazal
+	url = https://github.com/darshanbaral/ghazal.git
