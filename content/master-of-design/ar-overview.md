@@ -21,9 +21,9 @@ layout: "education"
         <a href="/master-of-design/ar/week-6-a2"><li>Week 6: Assignment 2</li></a>
         <a href="/master-of-design/ar/week-7-zappar"><li>Week 7: Zappar</li></a>
         <a href="/master-of-design/ar/week-8-a2"><li>Week 8: Assignment 2</li></a>
-        <a href="/master-of-design/ar/week-4-a1"><li>Week 9: Ideas for Final Assignment</li></a>
-        <a href="/master-of-design/ar/week-4-a1"><li>Week 10: Final Assignment - Map</li></a>
-        <a href="/master-of-design/ar/week-4-a1"><li>Week 11: Final Assignment</li></a>
-        <a href="/master-of-design/ar/week-4-a1"><li>Week 12: Sumbission</li></a>
+        <a href="/master-of-design/ar/week-9-assign-idea"><li>Week 9: Ideas for Final Assignment</li></a>
+        <a href="/master-of-design/ar/week-10-final-idea"><li>Week 10: Final Assignment - Map</li></a>
+        <a href="/master-of-design/ar/week-11-put-together"><li>Week 11: Final Assignment</li></a>
+        <a href="/master-of-design/ar/week-12-submission"><li>Week 12: Sumbission</li></a>
     </ul>
 </div>

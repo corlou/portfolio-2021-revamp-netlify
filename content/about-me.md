@@ -7,6 +7,7 @@ layout: "education"
 # Education
 ---
 <div class="container">
+<br>
    <p style="margin-left: 1em;">
         Hi there! I'm Corina. I like travelling, pole fitness, coffee, cats, and reading. What I love most about coding is the delicate balance between being a rockstar and having no idea. It's certainly a challenge and one I thoroughly enjoy. Currently undertaking a Diploma of IT with Coder Academy while learning Polish in my spare time. I have also recently taken up knitting and plan on spinning my own yarn. Fun and interesting fact: When we were travelling, I found a cat in every country and petted it.
     </p>
@@ -51,32 +52,27 @@ layout: "education"
     <div class="col"></div>
     <div class="col-10"> <!--Education and Qualifications column -->
       <h4>Qualifications & Education</h4>
-      <p class="year">2021</p>
-      <ul style="list-style-type:none;">
-        <li>Diploma of IT with Coder Academy</li>
-        <li>Level 2 Polish with Brisbane Polish School</li>
-      </ul>
-      <p class="year">2020</p>
-        <ul style="list-style-type:none;">
-          <li>Level 1 Polish with Brisbane Polish School</li>
-          <li>Modern JavaScript from the Beginning with Udemy</li>
-          <li>Codecademy: HTML, CSS, Command Line, Intro to JavaScript</li>
-        </ul>
-      <p class="year">2019</p>
-        <ul style="list-style-type:none;">
-          <li>Diploma of Design with Griffith University</li>
-        </ul>
-      <p class="year">2017</p>
-        <ul style="list-style-type:none;">
-          <li>IT Workshops in Warsaw, Poland:</li>
-            <li>Website Hosting & Servers</li>
-            <li>How to build an ECommerce Website</li>
-            <li>How to Build your own WordPress Website</li>  
-        </ul>
-        <p class="year">2012</p>
-          <ul style="list-style-type:none;">
-            <li>Bachelor of Teaching/Bachelor of Arts (Secondary) with The University of Newcastle</li>
-          </ul>
+      <br>
+      <h5>2021</h5>
+        <p>Diploma of IT with Coder Academy</p>
+        <p>Level 2 Polish with Brisbane Polish School</p>
+      <br>
+      <h5>2020</h5>
+          <p>Level 1 Polish with Brisbane Polish School</p>
+          <p>Modern JavaScript from the Beginning with Udemy</p>
+          <p>Codecademy: HTML, CSS, Command Line, Intro to JavaScript</p>
+      <br>
+      <h5>2019</h5>
+          <p>Diploma of Design with Griffith University</p>
+      <br>
+      <h5>2017</h5>
+          <p>IT Workshops in Warsaw, Poland:</p>
+            <p>Website Hosting & Servers</p>
+            <p>How to build an ECommerce Website</p>
+            <p>How to Build your own WordPress Website</p>  
+      <br>
+      <h5>2012</h5>
+            <p>Bachelor of Teaching/Bachelor of Arts (Secondary) - The University of Newcastle</p>
     </div> <!--/Education and Qualifications column -->
     <div class="col"></div>
   </div> 
