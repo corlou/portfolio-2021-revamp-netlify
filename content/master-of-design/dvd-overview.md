@@ -13,17 +13,17 @@ layout: "education"
         This course aims to introduce and foster good practices for learning techniques and skills, as well as the capacity to work with a variety of digital visual media. Students will be introduced to basics of graphic media through Adobe Creative Suite as well as interactive and 3D media including Google Sketchup. A framework for critical evaluation of digital visual media culture will also be introduced, exploring the impact and potential of social media, co-design, open source design and peer2peer technologies. A considerable portion of learning will take place in the student’s own time, using online tutorials to master basic skills which will then be reinforced and assessed through in-class assessment.
     </p>
     <ul class="master-design-links">
-         <a href="/travels"><li>Week 1: Introduction</li></a>
-         <a href="/travels"><li>Week 2: Website Icons</li></a>
-         <a href="/travels"><li>Week 3: Logo Design</li></a>
-         <a href="/travels"><li>Week 4: Assignment Poster</li></a>
-         <a href="/travels"><li>Week 5: Festival Poster</li></a>
-         <a href="/travels"><li>Week 6: Interior Design Posters and Character Designs</li></a>
-         <a href="/travels"><li>Week 7: Presentation Board</li></a>
-         <a href="/travels"><li>Week 8: Caelorum</li></a>
-         <a href="/travels"><li>Week 9: Exam Practice</li></a>
-         <a href="/travels"><li>Week 10: Final Assignment Poster Critique</li></a>
-         <a href="/travels"><li>Week 11: Exam</li></a>
-         <a href="/travels"><li>Week 12: Poster Submission</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 1: Introduction</li></a>
+        <a href="/master-of-design/dvd/week-2-icons"><li>Week 2: Website Icons</li></a>
+        <a href="/master-of-design/dvd/week-3-logo"><li>Week 3: Logo Design</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 4: Assignment Poster</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 5: Festival Poster</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 6: Interior Design Posters and Character Designs</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 7: Presentation Board</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 8: Caelorum</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 9: Exam Practice</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 10: Final Assignment Poster Critique</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 11: Exam</li></a>
+        <a href="/master-of-design/dvd/week-1-intro"><li>Week 12: Poster Submission</li></a>
     </ul>
 </div>
