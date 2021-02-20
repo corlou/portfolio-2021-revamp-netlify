@@ -16,7 +16,7 @@ layout: "education"
         <a href="/master-of-design/dvd/week-1-intro"><li>Week 1: Introduction</li></a>
         <a href="/master-of-design/dvd/week-2-icons"><li>Week 2: Website Icons</li></a>
         <a href="/master-of-design/dvd/week-3-logo"><li>Week 3: Logo Design</li></a>
-        <a href="/master-of-design/dvd/week-1-intro"><li>Week 4: Assignment Poster</li></a>
+        <a href="/master-of-design/dvd/week-4-a1"><li>Week 4: Assignment Poster</li></a>
         <a href="/master-of-design/dvd/week-1-intro"><li>Week 5: Festival Poster</li></a>
         <a href="/master-of-design/dvd/week-1-intro"><li>Week 6: Interior Design Posters and Character Designs</li></a>
         <a href="/master-of-design/dvd/week-1-intro"><li>Week 7: Presentation Board</li></a>
