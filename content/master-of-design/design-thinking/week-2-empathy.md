@@ -58,11 +58,11 @@ layout: "education"
         <li>What is your age group?</li>
     </ol>
     <br>
-    <!--IMAGES-->
+    <!--IMAGE-->
     <div class="row">
         <div class="col">
             <img src="/img/master_of_design/masters_dt/dt_2_1a.jpg" alt="design thinking process">
         </div>
     </div>
-    <!--/IMAGES-->
+    <!--/IMAGE-->
 </div>

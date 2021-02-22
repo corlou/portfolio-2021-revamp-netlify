@@ -14,7 +14,7 @@ layout: "education"
     </p>
     <ul class="master-design-links">
          <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 1: Introduction</li></a>
-         <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 2: Laser Cutting</li></a>
+         <a href="/master-of-design/enhanced-design-tools/week-2-laser"><li>Week 2: Laser Cutting</li></a>
          <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 3: 3D Printing</li></a>
          <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 4: Microprocessors</li></a>
          <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 5: Microbit and Electronics</li></a>
