@@ -49,7 +49,7 @@ layout: "education"
             </div>
         </div>
     </div>
-    <!--IMAGES -->
+    <!--/IMAGES -->
     <!--IMAGES-->
     <div class="card-group">
         <div class="card">
