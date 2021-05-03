@@ -25,6 +25,5 @@ layout: "education"
         <a href="/master-of-design/emerging/week-10-crit"><li>Week 10: Crit.</li></a>
         <a href="/master-of-design/emerging/week-11-put-together"><li>Week 11: It's finally coming together</li></a>
         <a href="/master-of-design/emerging/week-12-submission"><li>Week 12: Submission of Assignment 2</li></a>
-        <a href="/master-of-design/emerging/week-1-intro"><li>Week 1: Introduction</li></a>
     </ul>
 </div>
