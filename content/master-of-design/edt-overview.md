@@ -19,12 +19,12 @@ layout: "education"
          <a href="/master-of-design/enhanced-design-tools/week-4-micro"><li>Week 4: Microprocessors</li></a>
          <a href="/master-of-design/enhanced-design-tools/week-5-micro-and-elect"><li>Week 5: Microbit and Electronics</li></a>
          <a href="/master-of-design/enhanced-design-tools/week-6-micro-and-lights"><li>Week 6: Microbit and Lights</li></a>
-         <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 7: MIT App</li></a>
-         <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 8: Design Brief</li></a>
-         <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 9: Laser Cut TARDIS</li></a>
-         <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 10: Laser Cut and 3D Printing</li></a>
-         <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 11: Final Laser Cut</li></a>
-         <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Report Writing - Ideas</li></a>
-         <a href="/master-of-design/enhanced-design-tools/week-1-intro"><li>Week 13: Putting it all Together</li></a>
+         <a href="/master-of-design/enhanced-design-tools/week-7-mit"><li>Week 7: MIT App</li></a>
+         <a href="/master-of-design/enhanced-design-tools/week-8-brief"><li>Week 8: Design Brief</li></a>
+         <a href="/master-of-design/enhanced-design-tools/week-9-laser"><li>Week 9: Laser Cut TARDIS</li></a>
+         <a href="/master-of-design/enhanced-design-tools/week-10-laser-3d"><li>Week 10: Laser Cut and 3D Printing</li></a>
+         <a href="/master-of-design/enhanced-design-tools/week-11-final-laser"><li>Week 11: Final Laser Cut</li></a>
+         <a href="/master-of-design/enhanced-design-tools/week-12-report"><li>Week 12: Report Writing - Ideas</li></a>
+         <a href="/master-of-design/enhanced-design-tools/week-13-final"><li>Week 13: Putting it all Together</li></a>
     </ul>
 </div>
