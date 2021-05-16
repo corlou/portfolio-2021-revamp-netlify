@@ -22,9 +22,7 @@ layout: "education"
         <a href="/master-of-design/web-tech/week-7-exam"><li>Week 7: Exam and HTML Forms</li></a>
         <a href="/master-of-design/web-tech/week-8-concepts"><li>Week 8: JavaScript, HTML forms with PHP</li></a>
         <a href="/master-of-design/web-tech/week-9-enhancement"><li>Week 9: Progressive Enhancement</li></a>
-        <a href="/master-of-design/web-tech/week-1-intro"><li>Week 10: Exam Practice</li></a>
-        <a href="/master-of-design/web-tech/week-1-intro"><li>Week 11: Exam</li></a>
-        <a href="/master-of-design/web-tech/week-1-intro"><li>Week 12: Final Assignment Tips</li></a>
-        <a href="/master-of-design/web-tech/week-1-intro"><li>Week 13: Website Submission</li></a>
+        <a href="/master-of-design/web-tech/week-10-prac-exam"><li>Week 10: Exam Practice</li></a>
+        <a href="/master-of-design/web-tech/week-11-12-13"><li>Week 11, 12, and 13: Exam and Final Assignment</li></a>
     </ul>
 </div>

@@ -76,7 +76,7 @@ h5 {
   font-size: 1.3em;
 }
 h6 {
-  font-size: 1.1em;
+  font-size: 1.15rem !important;
 }
 p {
   margin: 0.5em 0 1.25em 0;
@@ -374,4 +374,9 @@ li.page-item:last-child {
 }
 .ux-questions {
   color: #717;
+}
+
+.job-title {
+  color: #717;
+  font-style: italic;
 }
