@@ -6,7 +6,8 @@ draft: false
 layout: "education"
 # Education
 ---
-  <br>
+<br>
+<div class="container">
   <div class="col xs="4" sm="3" md="3" lg="3" xl="12">
     <h4>Find out whether you need a visa</h4>
       <p>If you are not an EU citizen, then there are rules for how long you can stay in the Schengen Zone without a visa. I’m from Australia and working on getting Polish citizenship through my husband so I was able to stay longer than usual. I initially had to get a workmign visa as I was going over there to teach highschool English in Sevenoaks, but then after I quit to go travelling, I had to look up the rules of how long I could stay and where.</p>
@@ -43,15 +44,16 @@ layout: "education"
   </div>
   <br>
 
-<div class="row" style="text-align: center">
-    <div class="col">
-      <img src="/img/blog/1_a_backpack.jpg" alt="backpack">
-    </div>
-    <div class="col">
-      <img src="/img/blog/1_a_charger.jpg" alt="universal charger">
-    </div>
-    <div class="col">
-      <img src="/img/blog/1_a_shoes.jpg" alt="universal charger">
-    </div>
+  <div class="row" style="text-align: center">
+      <div class="col">
+        <img src="/img/blog/1_a_backpack.jpg" alt="backpack">
+      </div>
+      <div class="col">
+        <img src="/img/blog/1_a_charger.jpg" alt="universal charger">
+      </div>
+      <div class="col">
+        <img src="/img/blog/1_a_shoes.jpg" alt="universal charger">
+      </div>
+  </div>
 </div>
   
