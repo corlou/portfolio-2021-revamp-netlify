@@ -8,7 +8,6 @@
     justify-content: center;
   "
 >
-
   <!-- {{ partial "intro.html" . }} -->
   <img
     src="{{ .Site.Params.mainImage | relURL }}"
@@ -27,6 +26,7 @@
     alt="main image of {{ .Site.Params.title }}"
   />
   {{ partial "social.html" . }}
-  <span style="text-align: center;">{{ .Site.Params.shortAbout }}</span>
+
+  <span style="text-align: center">{{ .Site.Params.shortAbout }}</span>
 </div>
-{{ end }}
+{{ partial "cat.html" . }} {{ end }}

@@ -1,0 +1,64 @@
+<style>
+  .cat {
+    position: absolute;
+    right: 100%; /* just off screen */
+    transform: scaleX(-1); /* flip Mr Meowgi to face left when coming home */
+    transition: right 4s ease-in-out; /* animate changes to the 'right' property */
+    top: 0;
+    z-index: 5000;
+  }
+  .cat-walk {
+    right: -600px; /* width of gif */
+    transform: scaleX(1); /* flip Mr Meowgi to face right */
+  }
+</style>
+
+<img class="cat" src="cat-walk.gif" />
+
+<script type="text/javascript" src="cat.js"></script>
+
+<script>
+  let keysPressed = "";
+  const secretCode = "cat";
+
+  window.addEventListener("keyup", function (event) {
+    const key = event.key;
+    console.log("The user just pressed this key:", key);
+
+    // Add the latest key to our keysPressed string
+    keysPressed = keysPressed + key;
+    console.log("All keys pressed so far:", keysPressed);
+
+    // Check if the keys pressed so far matches our secret code
+    if (keysPressed === secretCode) {
+      // It matches, so let's do a thing 🎉
+      walkTheCat();
+      // Now lets clear their pressed keys history, so we can listen for it again
+      // (otherwise the keysPressed string will just keep growing, eg 'catcatcat' and will never match again)
+      keysPressed = "";
+    }
+
+    // If they're writing something which doesn't start with our secret code, then reset keysPressed
+    // because it will never match (eg if they start typing 'm', they clearly aren't spelling cat)
+    const firstSecretCharacter = secretCode[0];
+    if (!keysPressed.startsWith(firstSecretCharacter)) {
+      keysPressed = "";
+    }
+
+    // If they're writing something which isn't part of our secret code, reset it
+    // (eg 'co' will never end up as cat, despite the church's protests)
+    if (!secretCode.includes(keysPressed)) {
+      keysPressed = "";
+    }
+
+    // If whatever they're typing is now longer than our secret code, then they must've got it wrong, so
+    // let's reset keysPressed so they can try again (eg if they typed 'caaa' so far, then we gotta reset because
+    //  that'll never end up right if they keep going)
+    const secretCodeLength = secretCode.length;
+    const keysPressedLength = keysPressed.length;
+    if (keysPressedLength > secretCodeLength) {
+      keysPressed = "";
+    }
+  });
+  console.log(secretCode);
+</script>
